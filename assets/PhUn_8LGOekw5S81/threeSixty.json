@@ -1,0 +1,27 @@
+{
+  "version": "3.79.30921.0",
+  "course_id": "6qlg8oh1g4Z",
+  "title": "stats for world",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6k0I4eYlGKH",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
